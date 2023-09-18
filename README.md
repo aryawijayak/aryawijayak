@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arya Wijaya</h1>
+<img width="5448" alt="Banner (1)" src="https://github.com/aryawijayak/aryawijayak/assets/119391657/2c53de85-d71a-4ce5-bf9d-8e2c1608676e">
 <h3 align="center">UI designer diving into translating design to code 🎨💻</h3>
+<br>
 
 - 🌱 I’m currently learning **UI Design, Front End**
 
