@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **UI Design, Front End**
 
-- 🤝 I’m looking for help with **UI/UX Design**
+- 💬 Ask me about **UI/UX Design**
 
 - 👨‍💻 All of my projects are available at [awekadesign.com](awekadesign.com)
 
