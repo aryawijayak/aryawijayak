@@ -2,6 +2,8 @@
 <img width="5448" alt="Banner (1)" src="https://github.com/aryawijayak/aryawijayak/assets/119391657/2c53de85-d71a-4ce5-bf9d-8e2c1608676e">
 <br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryawijayak&label=Profile%20views&color=0e75b6&style=flat" alt="aryawijayak" /> </p>
+
 - 🌱 I’m currently learning **UI Design, Front End**
 
 - 💬 Ask me about **UI/UX Design**
