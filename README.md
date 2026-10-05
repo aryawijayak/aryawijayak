@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **UI/UX Design**
 
-- 👨‍💻 All of my projects are available at [awekadesign.com](awekadesign.com)
+- 👨‍💻 All of my projects are available at [aweka.design](aweka.design)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
