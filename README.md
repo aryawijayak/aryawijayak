@@ -8,8 +8,8 @@
 
 - 💬 Ask me about **UI/UX Design**
 
-- 👨‍💻 All of my projects are available at [aweka.design](aweka.design)
-
+- 👨‍💻 All of my projects are available at [aweka.design](https://aweka.design)
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aryawijaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryawijaya" height="30" width="40" /></a>
